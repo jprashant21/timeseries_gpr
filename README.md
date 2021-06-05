@@ -1,4 +1,4 @@
-# Timeseries Analytics with Gaussian process regression
+# Timeseries Forecasting with Gaussian process regression
 
 ### Objective: Demand Forecasting
 
