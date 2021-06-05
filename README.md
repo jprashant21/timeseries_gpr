@@ -21,12 +21,12 @@ Steps:
 
 Scripts information:
 
- - timeseries_modeling_analytics.py
-    Arguments: 
-    sample.csv: sample data csv file
-    n: required forecast period for step-2 and step-4
-    Trigger command: python portcast_analytics.py sample.csv 6
+ - timeseries_modeling_analytics.py  
+    Arguments:   
+    sample.csv: sample data csv file  
+    n: required forecast period for step-2 and step-4  
+    Trigger command: python portcast_analytics.py sample.csv 6  
 
- - test_cases.py
-    Arguments: None
+ - test_cases.py  
+    Arguments: None  
     Trigger command: pytest test_portcast.py
