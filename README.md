@@ -2,7 +2,7 @@
 
 ### Objective: Demand Forecasting
 
-**Python packages:**
+**Python packages:**  
   Python-dateutil  
   Pytest  
   Isoweek  
