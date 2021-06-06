@@ -3,13 +3,13 @@
 ### Objective: Demand Forecasting
 
 **Python packages:**
-  Python-dateutil
-  Pytest
-  Isoweek
-  Sklearn
-  Pandas
-  Numpy
-  Datetime
+  Python-dateutil  
+  Pytest  
+  Isoweek  
+  Sklearn  
+  Pandas  
+  Numpy  
+  Datetime  
 
 Steps:
 1. Data processing
